@@ -55,6 +55,5 @@ Copy code
   excludeSimilar: true              // Exclude similar-looking characters
 }
 ```
-License:
-This project is open source and available under the MIT License.
+
 
