@@ -1,4 +1,6 @@
-﻿# RandomPassX
+<img src="https://github.com/user-attachments/assets/4b711a3b-341d-4096-8e95-6a85aa497a71"/>
+
+# RandomPassX
 RandomPassX is a simple and flexible JavaScript library for generating secure, random passwords. It allows you to customize the generated passwords based on length, character types (lowercase, uppercase, numbers, symbols), and the option to exclude similar-looking characters (e.g., o, O, 0, I, 1, etc.).
 
 Features:
